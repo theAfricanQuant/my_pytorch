@@ -33,7 +33,7 @@ This project aims to delve deep into the functionalities and applications of PyT
 
 ### YouTube Videos
 
-- [Intro To Deep Learning With PyTorch - Deep Learning with Pytorch 1](https://www.youtube.com/watch?v=kY14KfZQ1TI)
+- [Intro To Deep Learning With PyTorch](https://www.youtube.com/watch?v=kY14KfZQ1TI&list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1)
   - **Description:** _[Brief description of the video content]_
 - [Video Title 2](<URL_PLACEHOLDER>)
   - **Description:** _[Brief description of the video content]_
