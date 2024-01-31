@@ -36,10 +36,15 @@ This project aims to delve deep into the functionalities and applications of PyT
 - [Intro To Deep Learning With PyTorch](https://www.youtube.com/watch?v=kY14KfZQ1TI&list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1)
 - [github link](https://github.com/flatplanet/Pytorch-Tutorial-Youtube)
   - **Description:** _[Brief description of the video content]_
-- [Video Title 2](<URL_PLACEHOLDER>)
-  - **Description:** _[Brief description of the video content]_
+  I sort of abandoned this one. But I think you should check it out!
 
-*Add more as needed.*
+- [Applications of Deep Neural Networks PyTorch Course Overview (1.1, Spring 2024)](https://www.youtube.com/watch?v=BvkwIfdRJ5c&list=PLjy4p-07OYzuy_lHcRW8lPTLPTTOmUpmi)
+- [github link](https://github.com/jeffheaton/app_deep_learning/tree/main)
+  - **Description:** _[Brief description of the video content]_
+Applications of deep neural networks is a course offered in a hybrid format by Washington University in St. Louis.  This course introduces PyTorch deep neural networks and highlights applications that neural networks are particularly adept at handling compared to previous machine learning models.
+
+You have to go to the site itself because I am not going thru everything but doing some selective walkthru for this one. The code is a combination of the original provided and my twist on some of them.
+
 
 ### Books
 
